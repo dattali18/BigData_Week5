@@ -18,17 +18,18 @@
 After training 10 fold 3 times:
 
 ```
-Cross-Validated (10 fold, repeated 3 times) Confusion Matrix 
+Cross-Validated (10 fold, repeated 3 times) Confusion Matrix
 
 (entries are percentual average cell counts across resamples)
- 
+
           Reference
 Prediction  f  m
          f 16 11
          m 25 48
-                            
+
  Accuracy (average) : 0.6415
 ```
+
 #### Training Time
 
 Training Time:
@@ -71,3 +72,5 @@ Training Time:
 [[11]]
 [1] "say"
 ```
+
+#### Special Var
